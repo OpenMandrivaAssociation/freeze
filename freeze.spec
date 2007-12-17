@@ -9,7 +9,6 @@ Source:		http://www.ibiblio.org/pub/Linux/utils/compress/freeze-2.5.0.tar.gz
 Patch0:		freeze-2.5.patch
 Patch1:		freeze-2.5.0-printf.patch
 Patch2:		freeze-2.5.0-deffile.patch
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-root
 
 %description
 Freeze is an old file compressor and decompressor that is not in common use
