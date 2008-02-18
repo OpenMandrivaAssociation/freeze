@@ -1,7 +1,7 @@
 Summary:	Freeze/melt/fcat compression utilities
 Name:		freeze
 Version:	2.5.0
-Release:	%mkrel 1
+Release:	%mkrel 2
 Group:		Archiving/Compression
 License:	Distributable
 # No one agrees on the canonical download site, everyone uses the same version
