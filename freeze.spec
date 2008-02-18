@@ -1,4 +1,4 @@
-Summary:	freeze/melt/fcat compression utilities
+Summary:	Freeze/melt/fcat compression utilities
 Name:		freeze
 Version:	2.5.0
 Release:	%mkrel 1
